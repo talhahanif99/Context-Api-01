@@ -9,6 +9,8 @@ const Login = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     setUser({ password, name });
+    setName("");
+    setPassword("");
   };
   return (
     <div>
