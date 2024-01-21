@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//talhahanif99.github.io/Context-Api-01/static/css/main.ca236acc.css",
+    "main.js": "//talhahanif99.github.io/Context-Api-01/static/js/main.2391911a.js",
+    "index.html": "//talhahanif99.github.io/Context-Api-01/index.html",
+    "main.ca236acc.css.map": "//talhahanif99.github.io/Context-Api-01/static/css/main.ca236acc.css.map",
+    "main.2391911a.js.map": "//talhahanif99.github.io/Context-Api-01/static/js/main.2391911a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca236acc.css",
+    "static/js/main.2391911a.js"
+  ]
+}
